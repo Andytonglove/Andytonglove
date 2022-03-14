@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👨‍💻 I’m currently studying in WHU.
+- 🔭 I’m currently working on Java and JavaScript.
+- 🌱 I’m currently learning in CS and GIS. 
+- 😃 Hello, world!
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Andytonglove&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 <!--
 **Andytonglove/Andytonglove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
