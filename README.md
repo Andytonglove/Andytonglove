@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 👨‍💻 I’m currently studying in WHU.
-- 🔭 I’m currently working on Java and JavaScript.
+- 👨‍💻 I’m currently studying in WHU & ZJU.
+- 🔭 I’m currently working on Python and Java.
 - 🌱 I’m currently learning in CS and GIS. 
 - 😃 Hello, world!
 
